@@ -47,6 +47,12 @@ nav li a:hover {
   color: rgb(172, 172, 172);
 }
 
+nav li a:active {
+  text-decoration: none;
+  color: rgb(172, 172, 172);
+  text-size: 1.4rem;
+}
+
 nav li a {
   color: white;
   text-decoration: none;
